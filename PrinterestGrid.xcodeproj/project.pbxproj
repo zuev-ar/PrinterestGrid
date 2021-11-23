@@ -11,6 +11,7 @@
 		D7D9637D274A737200FB4FCC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D9637C274A737200FB4FCC /* ContentView.swift */; };
 		D7D9637F274A737700FB4FCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7D9637E274A737700FB4FCC /* Assets.xcassets */; };
 		D7D96382274A737700FB4FCC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7D96381274A737700FB4FCC /* Preview Assets.xcassets */; };
+		D7D9638B274A756C00FB4FCC /* PrinterestGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D9638A274A756C00FB4FCC /* PrinterestGrid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D7D9637C274A737200FB4FCC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D7D9637E274A737700FB4FCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7D96381274A737700FB4FCC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D7D9638A274A756C00FB4FCC /* PrinterestGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrinterestGrid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D7D9637A274A737200FB4FCC /* PrinterestGridApp.swift */,
 				D7D9637C274A737200FB4FCC /* ContentView.swift */,
+				D7D9638A274A756C00FB4FCC /* PrinterestGrid.swift */,
 				D7D9637E274A737700FB4FCC /* Assets.xcassets */,
 				D7D96380274A737700FB4FCC /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7D9637D274A737200FB4FCC /* ContentView.swift in Sources */,
+				D7D9638B274A756C00FB4FCC /* PrinterestGrid.swift in Sources */,
 				D7D9637B274A737200FB4FCC /* PrinterestGridApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
